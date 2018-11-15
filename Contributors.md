@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [Akhila Madathil](https://github.com/AkhilaMadathil)
 - [faveja](https://github.com/faveja)
 - [Ian Smith](https://github.com/ismith-xyz)
@@ -491,6 +491,7 @@
 - [Lauren Tingler](https://github.com/laurenolivia18)
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
+- [ajkelly](https://github.com/ajkelly)
 - [wxia33](https://github.com/Wxia33)
 - [David Ross](https://github.com/DavidRoss3)
 - [akshayaugustinesheby](https://github.com/akshayaugustinesheby)
